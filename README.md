@@ -1,5 +1,6 @@
 # Number-systems-convertor-calculator
 This project is a console-based Number System Converter Calculator developed in C language. It allows users to convert numbers between various number systems, including:
+
 => Binary
 
 => Decimal
@@ -9,6 +10,7 @@ This project is a console-based Number System Converter Calculator developed in 
 => Hexadecimal
 
 The program features a user-friendly menu interface, where the user can select different conversion operations, such as:
+
 => Binary to Decimal, Octal, Hexadecimal
 
 => Decimal to Binary, Octal, Hexadecimal
