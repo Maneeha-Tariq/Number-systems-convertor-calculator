@@ -2,6 +2,7 @@
 A feature-rich, console-based Number System Converter developed in the C programming language, designed with an interactive and colorful text-based user interface. This application allows users to seamlessly convert numbers between binary, decimal, octal, and hexadecimal systems — complete with a detailed log history and input validation.
 
 🚀 Features
+
 🧮 Comprehensive Conversions
 
 Supports 12 types of number system conversions, including:
