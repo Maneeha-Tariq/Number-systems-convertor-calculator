@@ -1,33 +1,49 @@
-# Number-systems-convertor-calculator
-This project is a console-based Number System Converter Calculator developed in C language. It allows users to convert numbers between various number systems, including:
+# 🔢 Number System Converter 💻
+A feature-rich, console-based Number System Converter developed in the C programming language, designed with an interactive and colorful text-based user interface. This application allows users to seamlessly convert numbers between binary, decimal, octal, and hexadecimal systems — complete with a detailed log history and input validation.
 
-=> Binary
+🚀 Features
+🧮 Comprehensive Conversions
+Supports 12 types of number system conversions, including:
+•	Binary ↔ Decimal, Octal, Hexadecimal
+•	Decimal ↔ Binary, Octal, Hexadecimal
+•	Octal ↔ Binary, Decimal, Hexadecimal
+•	Hexadecimal ↔ Binary, Decimal, Octal
 
-=> Decimal
+📁 Conversion History
+•	Automatically logs each successful conversion
+•	View full conversion history
+•	Clear history at any time
 
-=> Octal
+🎨 Colorful User Interface
+•	ANSI escape sequences used for color-coded menus
+•	Improves readability and enhances user experience
 
-=> Hexadecimal
+🔐 Input Validation
+•	Handles invalid inputs such as wrong binary/octal/hex characters
+•	Provides clear error messages and guidance to users
 
-The program features a user-friendly menu interface, where the user can select different conversion operations, such as:
+🔁 Repetition Made Easy
+•	Every operation supports retrying with just one prompt
+•	Minimizes unnecessary navigation and keeps interaction smooth
 
-=> Binary to Decimal, Octal, Hexadecimal
+🔑 Highlights
+•	Log File: Stores each conversion (conversion.txt)
+•	Error Checking: Detects invalid digits in binary, octal, and hex
+•	Function-based Design: Clean modular functions for each conversion
+•	Color Macros: ANSI color codes defined for improved UX (RED, GREEN, YELLOW, etc.)
+•	Loop-based Retry System: Each conversion can be repeated instantly without returning to the main menu
 
-=> Decimal to Binary, Octal, Hexadecimal
+👨‍💻 Developed By
+MANEEHA TARIQ – BSEF24M046
+Bachelor of Software Engineering
+Course Project – Programming Fundamentals in C
 
-=> Octal to Binary, Decimal, Hexadecimal
+💡 Educational Value
+This project is a practical demonstration of key C programming concepts, including:
+•	Functions 
+•	Arrays and strings
+•	File handling (fopen, fprintf, fgetc)
+•	ANSI escape codes for UI enhancement
+•	Input validation and interactive loops
 
-=> Hexadecimal to Binary, Decimal, Octal
-
-In addition to conversion, the calculator includes:
-
-=> Conversion Log System: Every successful conversion is saved to a conversion.txt log file.
-
-=> View Log Option: Users can view the history of past conversions.
-
-=> Clear Log Option: Allows users to reset the log file.
-
-=> Input Validation: Basic error checking for invalid digits in binary, octal, or hexadecimal inputs.
-
-This project serves as a practical application of number system concepts, string manipulation, file handling, loops, and control structures in C, making it ideal for beginner to intermediate-level students.
 ![image](https://github.com/user-attachments/assets/1636b6ce-b1de-494c-8901-0304b883a5b5)
